@@ -1,0 +1,203 @@
+.one{
+    width: 710px;
+    height: 45px;
+    background-color: rgb(58, 58, 58);
+    position: relative;
+    display: flex;
+    
+}
+
+.one .onep1{
+    margin-left: 8px;
+    align-self: center;
+    color: #b8b8b8;
+}
+
+.one .oneinp1{
+    width: 200px;
+    height: 20px;
+    align-self: center;
+    background-color: #0c0c0c;
+    margin-left: 7px;
+}
+
+.one .onebut{
+    width: 150px;
+    height: 30px;
+    align-self: center;
+    margin-left: 8px;
+    background-color: darkgreen;
+    color: #fff6f6;
+    border: #ffffff;
+}
+
+.two{
+    width: 400px;
+    height: 200px;
+    background-color: rgb(58, 58, 58);
+    
+    display: flex;
+    flex-direction: column;
+    margin-top: 50px;
+}
+
+.twofie{
+    width: 400px;
+    height: 70px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 10px;
+    color: rgb(255, 255, 255);
+    
+}
+
+.twoleg{
+    color: rgb(255, 255, 255);
+}
+
+.twoinp1{
+    width: 200px;
+    height: 20px;
+    background-color: #0c0c0c;
+
+}
+
+.onep2{
+    display: inline;
+}
+
+.three{
+    width: 550px;
+    height: 55px;
+    background-color: rgb(58, 58, 58);
+    position: relative;
+    display: flex;
+    margin-top: 50px;
+}
+
+.three1{
+    color: rgb(255, 255, 255);
+    margin-left: 8px;
+    align-self: center;
+}
+
+.threeinp1{
+    width: 200px;
+    height: 20px;
+    background-color: #0c0c0c;
+    align-self: center;
+    margin-left: 5px;
+
+}
+
+.threebut{
+    width: 150px;
+    height: 30px;
+    align-self: center;
+    margin-left: 8px;
+    background-color: darkgreen;
+    color: #fff6f6;
+    border: #ffffff;
+}
+
+.four{
+    width: 400px;
+    height: 55px;
+    position: relative;
+    display: flex;
+    margin-top: 50px;
+    background-color: rgb(58, 58, 58);
+}
+
+.fourinp{
+    width: 200px;
+    height: 20px;
+    background-color: #0c0c0c;
+    align-self: center;
+    margin-left: 10px;
+}
+
+.o1{
+    width: 100px;
+    height: 100px;
+    background: linear-gradient(to right, red, blue );
+    margin-top: 50px;
+}
+
+.t2{
+    width: 100px;
+    height: 100px;
+    background: linear-gradient(to left, red, blue );
+    margin-top: 50px;
+}
+
+.t3{
+    width: 100px;
+    height: 100px;
+    background: linear-gradient(to top, red, blue );
+    margin-top: 50px;
+}
+
+.f4{
+    width: 100px;
+    height: 100px;
+    background: linear-gradient(to bottom, red, blue );
+    margin-top: 50px;
+}
+
+.f5{
+    width: 100px;
+    height: 100px;
+    background: linear-gradient(to right, red, blue );
+    margin-top: 50px;
+}
+
+.s6{
+    width: 100px;
+    height: 100px;
+    background: linear-gradient(to bottom left, blue, red );
+    margin-top: 50px;
+}
+
+.s7{
+    width: 100px;
+    height: 100px;
+    background: linear-gradient(to top left, red, blue );
+    margin-top: 50px;
+}
+
+.a8{
+    width: 100px;
+    height: 100px;
+    background: linear-gradient(to right, red, blue, green );
+    margin-top: 50px;
+}
+
+.n9{
+    width: 100px;
+    height: 100px;
+    background: linear-gradient(to right, red, blue, green, red );
+    margin-top: 50px;
+}
+
+.t10{
+    width: 100px;
+    height: 100px;
+    background: repeating-linear-gradient(to bottom, red, red 5px, blue 5px, blue 10px);
+    margin-top: 50px;
+}
+
+.e11{
+    width: 100px;
+    height: 100px;
+    background: radial-gradient(at 50% 50%, red 10px, blue 30%, green 80%, red 10% );
+    margin-top: 50px;
+}
+
+.t12{
+    width: 100px;
+    height: 100px;
+    background: repeating-radial-gradient(red, red 5px, blue 5px, blue 10px);
+    margin-top: 50px;
+}
+

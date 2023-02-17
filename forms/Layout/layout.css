@@ -1,0 +1,90 @@
+.class1 {
+  width: 300px;
+  height: 100px;
+  background-color: rgb(16, 126, 13);
+  overflow: hidden;
+  margin-bottom: 50px;
+  border: 1px solid rgb(16, 126, 13);
+}
+
+.one {
+  background: url("https://museumsworld.ru/100kartin/img/100_87.jpg");
+  width: 100px;
+  height: 100px;
+  margin-left: 95px;
+}
+
+.two {
+  background: url("https://museumsworld.ru/100kartin/img/100_87.jpg");
+  width: 100px;
+  height: 100px;
+  margin-left: 0%;
+  margin-right: 100%;
+}
+
+.three {
+  background: url("https://museumsworld.ru/100kartin/img/100_87.jpg");
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  left: 60%;
+}
+
+.class2 {
+  width: 250px;
+  height: 250px;
+  background-color: rgb(16, 126, 13);
+  overflow: hidden;
+  margin-bottom: 50px;
+  border: 1px solid rgb(16, 126, 13);
+  position: relative;
+}
+
+.four {
+  background: url("https://museumsworld.ru/100kartin/img/100_87.jpg");
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  left: 60%;
+  bottom: 0%;
+}
+
+.five {
+  background: url("https://museumsworld.ru/100kartin/img/100_87.jpg");
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  left: 0%;
+  bottom: 0%;
+}
+
+.six {
+  background: url("https://museumsworld.ru/100kartin/img/100_87.jpg");
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  left: 30%;
+  bottom: 30%;
+}
+
+.seven {
+  padding: 8%;
+  text-align: center;
+}
+
+.class3 {
+  width: 300px;
+  height: 100px;
+  background-color: rgb(16, 126, 13);
+  overflow: hidden;
+  margin-bottom: 50px;
+  border: 1px solid rgb(16, 126, 13);
+  display: flex;
+  position: relative;
+}
+
+.nine {
+  align-self: center;
+  position: absolute;
+  left: 40%;
+}

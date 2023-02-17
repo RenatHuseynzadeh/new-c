@@ -1,0 +1,127 @@
+.class1{
+    width: 250px;
+    height: 250px;
+    background-color: rgb(16, 126, 13);
+    overflow: hidden;
+    margin-bottom: 50px;
+    border: 1px solid rgb(16, 126, 13);
+    position: relative;
+    
+}
+
+.one{
+    background: url("https://museumsworld.ru/100kartin/img/100_87.jpg");
+    width: 100px;
+    height: 100px;
+    margin-top: 25px;
+    margin-left: 25px;
+    position: absolute;
+}
+
+.two{
+    background: url("https://museumsworld.ru/100kartin/img/100_87.jpg");
+    width: 100px;
+    height: 100px;
+    position: sticky;
+    
+}
+
+.number5{
+    background: url("https://museumsworld.ru/100kartin/img/100_87.jpg");
+    width: 100px;
+    height: 100px;
+    
+}
+
+.class2{
+    width: 250px;
+    height: 250px;
+    background-color: rgb(16, 126, 13);
+    overflow-y: scroll;
+    overflow-x: scroll;
+    margin-bottom: 50px;
+    border: 1px solid rgb(16, 126, 13);
+    position: relative;
+    
+}
+
+.class3{
+    width: 250px;
+    height: 250px;
+    background-color: rgb(16, 126, 13);
+    overflow-y: scroll;
+   
+    margin-bottom: 50px;
+    border: 1px solid rgb(16, 126, 13);
+    position: relative;
+    
+}
+
+.class4{
+    width: 250px;
+    height: 250px;
+    background-color: rgb(16, 126, 13);
+    overflow-y: hidden;
+    overflow-x: scroll;
+    margin-bottom: 50px;
+    border: 1px solid rgb(16, 126, 13);
+    position: relative;
+    
+}
+
+.number8{
+    background: url("https://museumsworld.ru/100kartin/img/100_87.jpg");
+    width: 75px;
+    height: 75px;
+    margin: 2px;
+    float: left;
+
+    
+}
+
+.number9{
+    background: url("https://museumsworld.ru/100kartin/img/100_87.jpg");
+    width: 75px;
+    height: 75px;
+    margin: 2px;
+    float: right;
+
+    
+}
+
+.span:hover{
+    display: block;
+    height: 20px;
+    width: 100%;
+    background-color: rgb(255, 0, 0);
+    bottom: 30px;
+}
+
+.p:hover{
+    display: inline-block;
+    height: 20px;
+    
+    background-color: rgb(255, 0, 0);
+    bottom: 30px;
+}
+
+.display{
+    background: url("https://museumsworld.ru/100kartin/img/100_87.jpg");
+    width: 100px;
+    height: 100px;
+    visibility: hidden;
+}
+
+.display2{
+    background: url("https://museumsworld.ru/100kartin/img/100_87.jpg");
+    width: 100px;
+    height: 100px;
+    display: none;
+}
+
+.display3{
+    background: url("https://museumsworld.ru/100kartin/img/100_87.jpg");
+    width: 100px;
+    height: 100px;
+    opacity: 20%;
+}

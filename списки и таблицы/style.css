@@ -1,0 +1,15 @@
+tr{
+    color: brown;
+}
+
+th{
+    color: blue;
+}
+
+td{
+    color: rgb(51, 255, 0);
+}
+
+caption{
+    font-weight: bold
+}

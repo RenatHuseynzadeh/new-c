@@ -1,0 +1,15 @@
+#поиск{
+    width: 1340px;
+    height: 25px;
+}   
+
+div{
+    width: 1340px;
+    height: 280px;
+    background-color: rgb(3, 3, 100);
+}
+
+.отзыв{
+    width: 300px;
+    height: 30px;
+}

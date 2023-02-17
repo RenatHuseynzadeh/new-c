@@ -1,0 +1,113 @@
+.renat{
+    text-align: center;
+}
+
+.поиск{
+    position: sticky;
+}
+
+.строкапоиска{
+    position: sticky;
+    width: 1340px;
+    height: 25px;
+
+}
+
+.поле .a{
+    position: fixed;
+    bottom: 10%;
+    width: 65px;
+    height: 25px;
+    background-color: black;
+    
+    
+
+
+}
+
+.поле{
+    width: 1340;
+    height: 500px;
+    position: relative;
+}
+
+.bmw{
+    width: 200px;
+    height: 350px;
+}
+
+.поле .tayota{
+    position: absolute;
+    left: 43%;
+    margin-top: 50%;
+
+    
+}
+
+.поле .button1{
+    position: absolute;
+    left: 36%;
+    margin-top: 0%;
+    height: 37px;
+    color: rgb(255, 255, 255);
+    background-color: black;
+
+}
+
+.поле .button2{
+    position: absolute;
+    left: 40%;
+    margin-top: 0%;
+    height: 37px;
+    color: rgb(255, 255, 255);
+    background-color: black;
+
+}
+
+.поле .button3{
+    position: absolute;
+    left: 45%;
+    margin-top: 0%;
+    height: 37px;
+    color: rgb(255, 255, 255);
+    background-color: black;
+
+}
+
+.поле .button4{
+    position: absolute;
+    left: 50%;
+    margin-top: 0%;
+    height: 37px;
+    color: rgb(255, 255, 255);
+    background-color: black;
+
+}
+
+.поле .button5{
+    position: absolute;
+    left: 55%;
+    margin-top: 0%;
+    height: 37px;
+    color: rgb(255, 255, 255);
+    background-color: black;
+    
+
+}
+
+.поле .car{
+    width: 200px;
+    height: 350px;
+    position: absolute;
+    left: 85%;
+    margin-top: 80%;
+}
+
+.поле h1{
+    position: absolute;
+    margin-top: 0%;
+    left: 0%;
+    background-color: black;
+    width: 1340px;
+}
+
